@@ -1,0 +1,38 @@
+name: downscaleCMIP6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - seaborn
+  - scipy
+  - numba
+  - zarr
+  - cftime
+  - matplotlib
+  - cartopy
+  - nc-time-axis
+  - pint
+  - h5netcdf
+  - fsspec
+  - google-cloud-storage
+  - gcsfs
+  - rioxarray
+  - python-graphviz
+  - xclim
+  - clisops
+  - geopandas
+  - tqdm
+  - ipython
+  - ipywidgets
+  - adlfs
+  - jupyterlab_widgets
+  - ipykernel
+  - pystac
+  - pystac-client
+  - planetary-computer
+  
