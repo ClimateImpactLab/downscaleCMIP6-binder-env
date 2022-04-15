@@ -1,1 +1,3 @@
+# set Markdown Preview as the defualt markdown viewer
+mkdir -p ~/.jupyter/lab/user-settings/@jupyterlab/docmanager-extension/
 echo '{"defaultViewers": {"markdown": "Markdown Preview"}}' > ~/.jupyter/lab/user-settings/@jupyterlab/docmanager-extension/plugin.jupyterlab-settings
