@@ -1,0 +1,1 @@
+echo '{"defaultViewers": {"markdown": "Markdown Preview"}}' > ~/.jupyter/lab/user-settings/@jupyterlab/docmanager-extension/plugin.jupyterlab-settings
