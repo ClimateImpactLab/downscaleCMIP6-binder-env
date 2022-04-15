@@ -35,4 +35,4 @@ dependencies:
   - pystac
   - pystac-client
   - planetary-computer
-  
+  - nbgitpuller
